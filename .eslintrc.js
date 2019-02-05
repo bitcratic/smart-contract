@@ -7,4 +7,4 @@ module.exports = {
         "no-param-reassign": ["error", { "props": true, "ignorePropertyModificationsFor": ["req"] }],
         "no-unused-vars": ["error", {"argsIgnorePattern": "next"}],
     }
-};
+}; 
